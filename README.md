@@ -1,4 +1,4 @@
-### 안녕하세요 진태영입니다 👋
+### 안녕하세요 iOS 개발자 진태영입니다 👋
 <p>
 <a href="https://elisha0103.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-lightgray?style=flat-square&logo=Tistory%20Sponsors&logoColor=white"/></a>
   <a href="mailto:elisha0103@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver%20Sponsors&logoColor=white"/></a>
