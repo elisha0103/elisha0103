@@ -1,8 +1,11 @@
 ### Hi there 👋
+<p>
+<a href="https://elisha0103.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-lightgray?style=flat-square&logo=Tistory%20Sponsors&logoColor=white"/></a>
+  <a href="elisha0103@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver%20Sponsors&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/블로그-lightgray?style=flat-square&logo=Tistory&logoColor=white"/>
 <img src="https://img.shields.io/badge/elisha0103@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
-
+</p>
 <!--
 **elisha0103/elisha0103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
