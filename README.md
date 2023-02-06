@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://elisha0103.tistory.com" target="블로그"><img src="https://img.shields.io/badge/Tistory-#000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+
 <!--
 **elisha0103/elisha0103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://elisha0103.tistory.com" target="블로그"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
