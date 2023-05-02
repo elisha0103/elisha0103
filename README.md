@@ -6,7 +6,6 @@
 <br/>
 
 ## Skills
----
 <p>
 
   - <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-0D0D0D?style=flat&logo=swift&logoColor=blue"/>
@@ -39,7 +38,6 @@
 
 
 ## Projects
----
 ### Book Search App
 - Restful API를 기반으로 원하는 정보를 검색하고 간략한 책 정보를 확인할 수 있는 서비스
 <br/>
@@ -54,7 +52,6 @@
 - 진행 기간: 2023. 04(1주)
 - **MVVM**, **RESTful API**, **Networking**, **메모리 / 디스크 캐싱**, **무한 스크롤**, **테스트 코드**
 <br/>
-<br/>
 
 ### Memorizing [AppStore](https://apps.apple.com/kr/app/메모라이징-memorizing/id1670026920)
 - 에빙하우스 망각곡선에 착안하여 정해진 시간마다 반복 학습으로 복습하고 공유하는 암기장 플랫폼
@@ -68,7 +65,6 @@
 - 역할: iOS 개발
 - 진행 기간: 2023.01 ~ 2023.02(7주)
 - **Store MVVM Singleton Architecture**, **Firebase**, **Notification**, **Core Data**, **Async**, **Social SignIn**
-<br/>
 <br/>
 
 ### APPLE MARKET
@@ -85,27 +81,10 @@
 - 역할: PL, iOS 개발
 - 진행 기간: 2022.12(2주)
 - **Store MVVM Architecture**, **Firebase**, **Async**
-<!--
-**elisha0103/elisha0103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <br/>
 <br/>
 
 ## iOS Education
----
 ### 멋쟁이사자처럼 / 앱스쿨(1기)
 - Swift 문법 및 iOS 생태계를 이해하고 원하는 비즈니스 로직을 구현
 - 애자일 개발 방법론을 적극 활용하고 팀 단위의 성장을 주도적으로 리드 (팀 단위 피드백, 코드리뷰, 주기적인 회고, 토론 스터디 등)
@@ -114,12 +93,11 @@ Here are some ideas to get you started:
 <br/>
 
 ## About Me
----
 
  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Felisha0103&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> 
 
-- ### Email: elisha01039@gmail.com
-- ### Blog: [E-Sport 부문 iOS 개발자](https://elisha0103.tistory.com)
+- Email: elisha01039@gmail.com
+- Blog: [E-Sport 부문 iOS 개발자](https://elisha0103.tistory.com)
 
 <br/>
 
