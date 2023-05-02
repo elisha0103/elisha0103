@@ -1,4 +1,20 @@
- ### 안녕하세요 iOS 개발자 진태영입니다 👋  
+> * 반복적인 일을 자동화 하는데 관심이 많습니다.
+> * 시스템 자원 사용을 최소화하고, 불필요한 일을 개선하는데 노력합니다.
+> * 좋은 사람을 만나는 것보다 제가 먼저 좋은 사람이 되고자 합니다.
+
+### Skills
+<p>
+    <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SwiftUI-0D0D0D?style=flat&logo=swift&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/>
+
+</p>
+
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=elisha0103&show_icons=true&theme=dark&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisha0103&show_icons=true&theme=dark&layout=compact"/>
+</p>
+
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Felisha0103&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <p>
@@ -23,18 +39,6 @@
 - 제가 경험한 과정과 교훈을 공유하면서 서로가 서로를 이끌어가며 함께 발전하는 역할을 할 수 있습니다.
 
 
-### Skills
-<p>
-    <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SwiftUI-0D0D0D?style=flat&logo=swift&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/>
-
-</p>
-
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=elisha0103&show_icons=true&theme=dark&layout=compact"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisha0103&show_icons=true&theme=dark&layout=compact"/>
-</p>
 
 <!--
 **elisha0103/elisha0103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
