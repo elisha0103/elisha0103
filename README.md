@@ -1,3 +1,8 @@
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=elisha0103&show_icons=true&theme=dark&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisha0103&show_icons=true&theme=dark&layout=compact"/>
+</p>
+
 > * 반복적인 일을 자동화 하는데 관심이 많습니다.
 > * 시스템 자원 사용을 최소화하고, 불필요한 일을 개선하는데 노력합니다.
 > * 좋은 사람을 만나는 것보다 제가 먼저 좋은 사람이 되고자 합니다.
@@ -11,10 +16,6 @@
 </p>
 
 
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=elisha0103&show_icons=true&theme=dark&layout=compact"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisha0103&show_icons=true&theme=dark&layout=compact"/>
-</p>
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Felisha0103&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <p>
