@@ -8,7 +8,7 @@
 ## Skills
 <p>
 
-  - <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-0D0D0D?style=flat&logo=swift&logoColor=blue"/><img src="https://img.shields.io/badge/UIKit-0D0D0D?style=flat&logo=swift&logoColor=blue"/>
+  - <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-0D0D0D?style=flat&logo=swift&logoColor=blue"/> <img src="https://img.shields.io/badge/uikit-%232396F3.svg?&style=for-the-badge&logo=uikit&logoColor=white" />
   - <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Combine-F05138?style=flat-square&logo=Swift&logoColor=white"/>
   - <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
@@ -38,8 +38,24 @@
 
 
 ## Projects
+### Article Project
+- RESTful API를 기반으로 원하는 NEWS 기사를 검색하고 WebView로 기사를 연결해주는 서비스
+- UIKit 프레임워크 기반 RESTful API 활용 토이 프로젝트
+<br/>
+
+<div align="center">
+    <img src = "https://github.com/elisha0103/UIKit/assets/41459466/beb6939a-05c9-4253-bb5a-3e8064114b6a" width="600" height="450"/>
+</div>
+<br/>
+
+- [Article Project README](https://github.com/elisha0103/UIKit/tree/main/ArticleProject)
+- 역할: iOS 개발
+- 진행 기간: 2023.05(1주)
+- **MVC**, **RESTful API**, **Networking**, **메모리 / 디스크 캐싱**, **무한 스크롤**, **테스트 코드**
+<br/>
+
 ### Book Search App
-- Restful API를 기반으로 원하는 정보를 검색하고 간략한 책 정보를 확인할 수 있는 서비스
+- RESTful API를 기반으로 원하는 정보를 검색하고 간략한 책 정보를 확인할 수 있는 서비스
 <br/>
 
 <div align="center">
