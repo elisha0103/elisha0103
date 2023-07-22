@@ -64,7 +64,7 @@
 
 <br>
 
-| ### Book Search App| ### ArticleProject|
+|Book Search App|ArticleProject|
 |-|-|
 |- Open Library API를 기반으로 원하는 책을 검색하고 간략한 책 정보를 확인할 수 있는 서비스 <br> - SwiftUI 프레임 워크 기반 RESTful API 활용 토이 프로젝트| - NEWS API를 기반으로 원하는 NEWS 기사를 검색하고 WebView로 기사를 연결해주는 서비스 <br> - UIKit 프레임워크 기반 RESTful API 활용 토이 프로젝트|
 |<div align="center"> <img src="https://github.com/elisha0103/TwitterCloneProject/assets/41459466/56241daf-1d88-46f0-8316-55c1d4815857" width="300"> </div>|<div align="center"> <img src="https://github.com/elisha0103/TwitterCloneProject/assets/41459466/4e3db51e-b38d-4b33-8e3a-92165c688d4e" width="300"> </div>|
