@@ -36,40 +36,46 @@
 
 <br/>
 
+<br>
 
-## Projects
-### Article Project
-- RESTful API를 기반으로 원하는 NEWS 기사를 검색하고 WebView로 기사를 연결해주는 서비스
-- UIKit 프레임워크 기반 RESTful API 활용 토이 프로젝트
-<br/>
+# Projects
 
-<div align="center">
-    <img src = "https://github.com/elisha0103/UIKit/assets/41459466/beb6939a-05c9-4253-bb5a-3e8064114b6a" width="600" height="450"/>
-</div>
-<br/>
-
-- [Article Project README](https://github.com/elisha0103/UIKit/tree/main/ArticleProject)
-- 역할: iOS 개발
-- 진행 기간: 2023.05(1주)
-- **MVC**, **RESTful API**, **Networking**, **메모리 / 디스크 캐싱**, **무한 스크롤**, **테스트 코드**
-<br/>
-
-### Book Search App
-- RESTful API를 기반으로 원하는 정보를 검색하고 간략한 책 정보를 확인할 수 있는 서비스
-<br/>
+<font size = "5"> Twitter Clone Project </font>
+- Firebase를 이용해 Twitter 앱의 기본 기능을 제공하는 프로젝트
+- UIKit 프레임워크에 코드 베이스 프로그래밍 방법을 적용하여 UI/UX를 구현
 
 <div align="center">
-    <img src = "https://user-images.githubusercontent.com/41459466/231796941-b32657ee-33b9-492d-acf9-43a611364c00.jpg" width="600" height="450"/>
+<img src="https://github.com/elisha0103/TwitterCloneProject/assets/41459466/895be7dd-dd99-4b5d-9610-fded46c83336">
 </div>
-<br/>
 
-- [Book Search App README](https://github.com/elisha0103/BookSearchApp)
-- 역할: iOS 개발
-- 진행 기간: 2023. 04(1주)
-- **MVVM**, **RESTful API**, **Networking**, **메모리 / 디스크 캐싱**, **무한 스크롤**, **테스트 코드**
-<br/>
+- [Twitter Clone Project README](https://github.com/elisha0103/TwitterCloneProject)
+- 역할:iOS 개발
+- 진행 기간: 2023.06 ~ 2023.07(4주)
+- **MVVM Architecture**, **Firebase**, **Delegate Pattern**, **Realtime Database**, <br> **메모리 / 디스크 캐싱**, **Codebase UI**
 
-### Memorizing [AppStore](https://apps.apple.com/kr/app/메모라이징-memorizing/id1670026920)
+***
+
+<br>
+<br>
+
+<font size = "5"> RESTful API Project </font>
+- Network 모듈을 구현하여 RESTful API로 서버 통신하는 프로젝트
+- Swift 개발환경(UIKit, SwiftUI)의 차이점을 이해하고 Network 테스트 코드를 작성하는 프로젝트
+
+<br>
+
+|<font size= "4"> Book Search App </font>|<font size="4"> ArticleProject </font>|
+|-|-|
+|- Open Library API를 기반으로 원하는 책을 검색하고 간략한 책 정보를 확인할 수 있는 서비스 <br> - SwiftUI 프레임 워크 기반 RESTful API 활용 토이 프로젝트| - NEWS API를 기반으로 원하는 NEWS 기사를 검색하고 WebView로 기사를 연결해주는 서비스 <br> - UIKit 프레임워크 기반 RESTful API 활용 토이 프로젝트|
+|<div align="center"> <img src="https://github.com/elisha0103/TwitterCloneProject/assets/41459466/56241daf-1d88-46f0-8316-55c1d4815857" width="300"> </div>|<div align="center"> <img src="https://github.com/elisha0103/TwitterCloneProject/assets/41459466/4e3db51e-b38d-4b33-8e3a-92165c688d4e" width="300"> </div>|
+| - [Book Search App README](https://github.com/elisha0103/BookSearchApp) <br> - 역할: iOS 개발 <br> - 진행 기간: 2023. 04(1주) <br> - **MVVM**, **RESTful API**, **Networking**, **메모리 / 디스크 캐싱**, **무한 스크롤**, **테스트 코드** | - [Article Project README](https://github.com/elisha0103/UIKit/tree/main/ArticleProject) <br> - 역할: iOS 개발 <br> - 진행 기간: 2023.05(1주) <br> - **MVC**, **RESTful API**, **Networking**, **메모리 / 디스크 캐싱**, **무한 스크롤**, **테스트 코드** |
+
+***
+
+<br>
+<br>
+
+<font size="5">Memorizing [AppStore](https://apps.apple.com/kr/app/메모라이징-memorizing/id1670026920) </font>
 - 에빙하우스 망각곡선에 착안하여 정해진 시간마다 반복 학습으로 복습하고 공유하는 암기장 플랫폼
 <br/>
 
@@ -81,9 +87,12 @@
 - 역할: iOS 개발
 - 진행 기간: 2023.01 ~ 2023.02(7주)
 - **Store MVVM Singleton Architecture**, **Firebase**, **Notification**, **Core Data**, **Async**, **Social SignIn**
+
+***
+<br/>
 <br/>
 
-### APPLE MARKET
+<font size="5"> APPLE MARKET </font>
 - 애플 상품을 산매하는 회사의 B2C, B2B MVP 앱 개발 프로젝트
 - B2C App: 소비자가 애플 디바이스 및 관련 제품을 쉽고 빠르게 구매할 수 있는 앱
 <br/>
