@@ -75,7 +75,7 @@
 <br>
 <br>
 
-Memorizing [AppStore](https://apps.apple.com/kr/app/메모라이징-memorizing/id1670026920)
+## Memorizing [AppStore](https://apps.apple.com/kr/app/메모라이징-memorizing/id1670026920)
 - 에빙하우스 망각곡선에 착안하여 정해진 시간마다 반복 학습으로 복습하고 공유하는 암기장 플랫폼
 <br/>
 
@@ -92,7 +92,7 @@ Memorizing [AppStore](https://apps.apple.com/kr/app/메모라이징-memorizing/i
 <br/>
 <br/>
 
-APPLE MARKET
+## APPLE MARKET
 - 애플 상품을 산매하는 회사의 B2C, B2B MVP 앱 개발 프로젝트
 - B2C App: 소비자가 애플 디바이스 및 관련 제품을 쉽고 빠르게 구매할 수 있는 앱
 <br/>
