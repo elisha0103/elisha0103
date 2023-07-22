@@ -58,7 +58,7 @@
 <br>
 <br>
 
-<font size = "5"> RESTful API Project </font>
+## RESTful API Project
 - Network 모듈을 구현하여 RESTful API로 서버 통신하는 프로젝트
 - Swift 개발환경(UIKit, SwiftUI)의 차이점을 이해하고 Network 테스트 코드를 작성하는 프로젝트
 
