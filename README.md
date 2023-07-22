@@ -40,7 +40,7 @@
 
 # Projects
 
-<font size = "5"> Twitter Clone Project </font>
+## Twitter Clone Project
 - Firebase를 이용해 Twitter 앱의 기본 기능을 제공하는 프로젝트
 - UIKit 프레임워크에 코드 베이스 프로그래밍 방법을 적용하여 UI/UX를 구현
 
@@ -49,7 +49,7 @@
 </div>
 
 - [Twitter Clone Project README](https://github.com/elisha0103/TwitterCloneProject)
-- 역할:iOS 개발
+- 역할: iOS 개발
 - 진행 기간: 2023.06 ~ 2023.07(4주)
 - **MVVM Architecture**, **Firebase**, **Delegate Pattern**, **Realtime Database**, <br> **메모리 / 디스크 캐싱**, **Codebase UI**
 
@@ -64,7 +64,7 @@
 
 <br>
 
-|<font size= "4"> Book Search App </font>|<font size="4"> ArticleProject </font>|
+| ### Book Search App| ### ArticleProject|
 |-|-|
 |- Open Library API를 기반으로 원하는 책을 검색하고 간략한 책 정보를 확인할 수 있는 서비스 <br> - SwiftUI 프레임 워크 기반 RESTful API 활용 토이 프로젝트| - NEWS API를 기반으로 원하는 NEWS 기사를 검색하고 WebView로 기사를 연결해주는 서비스 <br> - UIKit 프레임워크 기반 RESTful API 활용 토이 프로젝트|
 |<div align="center"> <img src="https://github.com/elisha0103/TwitterCloneProject/assets/41459466/56241daf-1d88-46f0-8316-55c1d4815857" width="300"> </div>|<div align="center"> <img src="https://github.com/elisha0103/TwitterCloneProject/assets/41459466/4e3db51e-b38d-4b33-8e3a-92165c688d4e" width="300"> </div>|
@@ -75,7 +75,7 @@
 <br>
 <br>
 
-<font size="5">Memorizing [AppStore](https://apps.apple.com/kr/app/메모라이징-memorizing/id1670026920) </font>
+Memorizing [AppStore](https://apps.apple.com/kr/app/메모라이징-memorizing/id1670026920)
 - 에빙하우스 망각곡선에 착안하여 정해진 시간마다 반복 학습으로 복습하고 공유하는 암기장 플랫폼
 <br/>
 
@@ -92,7 +92,7 @@
 <br/>
 <br/>
 
-<font size="5"> APPLE MARKET </font>
+APPLE MARKET
 - 애플 상품을 산매하는 회사의 B2C, B2B MVP 앱 개발 프로젝트
 - B2C App: 소비자가 애플 디바이스 및 관련 제품을 쉽고 빠르게 구매할 수 있는 앱
 <br/>
