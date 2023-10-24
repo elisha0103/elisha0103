@@ -122,7 +122,7 @@
  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Felisha0103&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> 
 
 - Email: elisha01039@gmail.com
-- Blog: [E-Sport 부문 iOS 개발자](https://elisha0103.tistory.com)
+- Blog: [블로그](https://elisha0103.tistory.com)
 
 <br/>
 
