@@ -58,7 +58,6 @@
 ### ㈜피피 (PPFriends) · iOS 개발자 · 2024.01 ~ 현재
 반려동물 기반 소셜 커머스 플랫폼 — iOS 개발
 
-**Selected Highlights**
 
 - 🎬 **동영상 편집·업로드 자체 구현** (AVFoundation) — 업로드 시간 **-67%** (5개 영상 1분 30초 → 30초). HDR→SDR 코덱 무관 변환을 위한 자체 `HDRVideoCompositor` 구현
 - 🛒 **앱 내 쇼핑 (PG · 헤드리스 커머스) 신규 도입** — PG 협상으로 월별 정산액 **+2,000만원**, WKWebView 하이브리드 결제 모듈 + 헤드리스 REST API 통합으로 신규 매출 채널 확보
