@@ -56,7 +56,7 @@
 ## 💼 Career
 
 ### ㈜피피 (PPFriends) · iOS 개발자 · 2024.01 ~ 현재
-반려동물 기반 소셜 커머스 플랫폼 — iOS 단독 개발
+반려동물 기반 소셜 커머스 플랫폼 — iOS 개발
 
 **Selected Highlights**
 
